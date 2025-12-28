@@ -32,7 +32,7 @@ C:\GCC_CH32\bin
 ch32fun library
 ---------------
 
-It is advisable to download the ch32fun library as a whole in .zip file format from [ch32fun] (https://github.com/cnlohr/ch32fun). Then simply extract the zip file to a suitable folder - e.g. C:\CH32FUN.
+It is advisable to download the ch32fun library as a whole in .zip file format from [ch32fun](https://github.com/cnlohr/ch32fun). Then simply extract the zip file to a suitable folder - e.g. C:\CH32FUN.
 
 Editor PSPad
 ------------
@@ -151,7 +151,7 @@ edit the system PATH variable via "Advanced system settings" to add directories 
 Knihovna ch32fun
 ----------------
 
-Knihovnu ch32fun je vhodné stáhnout jako celek ve formátu .zip souboru z [ch32fun] (https://github.com/cnlohr/ch32fun). Zip soubor pak stačí rozbalit do vhodné složky - např. C:\CH32FUN.
+Knihovnu ch32fun je vhodné stáhnout jako celek ve formátu .zip souboru z [ch32fun](https://github.com/cnlohr/ch32fun). Zip soubor pak stačí rozbalit do vhodné složky - např. C:\CH32FUN.
 
 Editor PSPad
 ------------
