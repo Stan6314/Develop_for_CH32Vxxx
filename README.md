@@ -5,10 +5,6 @@ CH32V003 microcontrollers and similar types have become popular among profession
 
 The following procedure shows how this library can be used to create a simple environment for writing, compiling, and programming programs into these microcontrollers.
 
-Images are used from TinyBasRO development!
-
-![screenshot](pspadenv.png)
-
 Simple development environment for RISC-V CH32
 ----------------------------------------------
 
@@ -29,6 +25,8 @@ Setting the PATH system variable
 In Windows, you need to set (add) a new PATH variable using the link in "Settings" -> "System" -> "Advanced system settings" that will point to the "bin" folder of the installed compiler package. For example:
 C:\GCC_CH32\bin
 
+![screenshot](envvariab.png)
+
 ch32fun library
 ---------------
 
@@ -37,6 +35,8 @@ It is advisable to download the ch32fun library as a whole in .zip file format f
 Editor PSPad
 ------------
 If you don't have your own favorite and used environment for writing programs, you can try PSPad. [PSPad editor](https://www.pspad.com/en/) is a freeware programmer's editor for MS Windows. Download and install it from the link provided (approx. 14 MB).
+
+![screenshot](pspadenv.png)
 
 PSPad settings
 --------------
@@ -120,10 +120,6 @@ Mikrořadiče CH32V003 a podobné typy se díky své ceně a svým vlastnostem s
 
 Následující postup ukazuje, jak lze tuto knihovnu použít a vytvořit si jednoduché prostředí pro psaní, překlad a naprogramování jednoduchých programů do těchto mikrořadičů.
 
-Obrázky jsou použity z vývoje TinyBasRO!
-
-![screenshot](pspadenv.png)
-
 Postup pro přípravu jednoduchého vývojového prostředí pro RISC-V CH32
 ---------------------------------------------------------------------
 
@@ -145,8 +141,7 @@ Nastavení systémové proměnné PATH
 Ve Windows je potřeba nastavit (přidat) pomocí odkazu v "Nastavení" -> "Systém" -> "Upřesnit nastavení systému" novou proměnnou PATH která bude ukazovat na složku bin instalovaného balíku s překladačem. Např.
 C:\GCC_CH32\bin
 
-
-edit the system PATH variable via "Advanced system settings" to add directories for command-line access
+![screenshot](envvariab.png)
 
 Knihovna ch32fun
 ----------------
@@ -158,7 +153,7 @@ Editor PSPad
 
 Nemáte-li své vlastní oblíbené a používané prostředí pro psaní programu, můžete vyzkoušet PSPad. [PSPad editor](https://www.pspad.com/en/) je volně šiřitelný (freeware) univerzální editor pro MS Windows. Stáhněte a nainstalujte si jej z uvedeného odkazu (cca 14 MB).
 
-PSPad is a freeware programmer's editor for Microsoft Windows operating systems.
+![screenshot](pspadenv.png)
 
 Nastavení PSPad
 ---------------
